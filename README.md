@@ -11,7 +11,6 @@
 
 ### 🔗 Connect with me 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/akanksha-darshan-09886224a/) 
-
 [![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:darshanakanksha8@gmail.com)  
 
 ---
@@ -39,15 +38,11 @@
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  
 
 ---
-
 <p align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/616/616408.png" width="50" height="50">
+  <img src="https://cdn-icons-png.flaticon.com/512/702/702797.png" width="50" height="50">
 </p>
-
 <h3 align="center"><b>“Habits are the compound interest of self-improvement.”</b></h3>  
 <p align="center">– James Clear</p>
 
 ---
-
-
 ✨ *Thanks for visiting my profile! Feel free to connect or collaborate.*  

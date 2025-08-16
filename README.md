@@ -41,7 +41,7 @@
 ---
 
 <p align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/3524/3524388.png" width="40" height="40">
+  <img src= "[https://cdn-icons-png.flaticon.com/512/29/29302.png]" width="40" height="40">
 </p>
 
 <h3 align="center"><b>“Habits are the compound interest of self-improvement.”</b></h3>  

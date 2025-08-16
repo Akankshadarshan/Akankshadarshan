@@ -39,9 +39,9 @@
 
 ### 📊 GitHub Stats  
 
-![Akanksha's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)  
+![Akanksha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akankshadarshan&show_icons=true&theme=tokyonight)  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Akankshadarshan&layout=compact&theme=tokyonight)  
 
 ### 🚀 Featured Projects  
 
@@ -59,9 +59,11 @@ engagement, category performance, and market alignment.*
 - 📚 **[Book Price Scraper](https://github.com/Akankshadarshan/Book-Price-Scraper)**  
    *Scrapes online bookstore websites to fetch book prices and compares them efficiently.*
 
-  - 📝 **[OCR Text Extractor](https://github.com/Akankshadarshan/OCR-Text-Extractor)**  
-   *Extracts text from images using OCR technology for easy digital processing.*  
+- 📝 **[OCR Text Extractor](https://github.com/Akankshadarshan/OCR-Text-Extractor)**  
+   *Extracts text from images using OCR technology for easy digital processing.*
+  
 ---
+
 <p align="center">
   <img src="https://cdn-icons-png.flaticon.com/512/702/702797.png" width="50" height="50">
 </p>

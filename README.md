@@ -41,12 +41,13 @@
 ---
 
 <p align="center">
-  <img src= "https://cdn-icons-png.flaticon.com/512/29/29302.png" width="40" height="40">
+  <img src="https://cdn-icons-png.flaticon.com/512/29/29302.png" width="50" height="50">
 </p>
 
 <h3 align="center"><b>“Habits are the compound interest of self-improvement.”</b></h3>  
 <p align="center">– James Clear</p>
 
 ---
+
 
 ✨ *Thanks for visiting my profile! Feel free to connect or collaborate.*  

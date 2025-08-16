@@ -37,6 +37,30 @@
 ![SQL](https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  
 
+### 📊 GitHub Stats  
+
+![Akanksha's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)  
+
+### 🚀 Featured Projects  
+
+- 📊 **[Real Estate Price Prediction Model](https://github.com/Akankshadarshan/price-prediction-model)**  
+   *Created a project to solve a real estate company’s problem by predicting house prices using machine learning. Successfully predicted house prices with high accuracy, significantly enhancing the
+company’s decision-making process and sales performance by 60%.*  
+
+- 🤖 **[Movie Recommender Sytem](https://github.com/Akankshadarshan/Movie-recommender-system)**  
+   *Created a recommendation system to suggest movies to users based on their viewing history and preferences.*  
+
+- 📈 **[EdTech Course Insights Dashboard](https://github.com/Akankshadarshan/edtech-powerbi-dashboard)**  
+   *Developed a comprehensive data analysis and visualization dashboard for an EdTech startup to identify growth opportunities in recorded lecture offerings, focusing on viewer
+engagement, category performance, and market alignment.*
+
+- 📚 **[Book Price Scraper](https://github.com/Akankshadarshan/Book-Price-Scraper)**  
+   *Scrapes online bookstore websites to fetch book prices and compares them efficiently.*
+
+  - 📝 **[OCR Text Extractor](https://github.com/Akankshadarshan/OCR-Text-Extractor)**  
+   *Extracts text from images using OCR technology for easy digital processing.*  
 ---
 <p align="center">
   <img src="https://cdn-icons-png.flaticon.com/512/702/702797.png" width="50" height="50">

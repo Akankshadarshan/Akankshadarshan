@@ -5,7 +5,7 @@
 📖 Continuously learning and growing through hands-on practice  
 🤝 Open to collaborations, learning opportunities, and meaningful conversations  
 
-**“Habits are the compound interest of self-improvement.”** – James Clear 
+
 
 ---
 
@@ -38,5 +38,15 @@
 ![SQL](https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  
 
+---
+
+<p align="center">
+  <img src="https://cdn-icons-png.flaticon.com/512/3524/3524388.png" width="40" height="40">
+</p>
+
+<h3 align="center"><b>“Habits are the compound interest of self-improvement.”</b></h3>  
+<p align="center">– James Clear</p>
+
+---
 
 ✨ *Thanks for visiting my profile! Feel free to connect or collaborate.*  

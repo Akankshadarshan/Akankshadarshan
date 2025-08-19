@@ -38,22 +38,21 @@
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  
 
 
-### 🚀 Featured Projects  
 
-- 📊 **[Real Estate Price Prediction Model](https://github.com/Akankshadarshan/price-prediction-model)**  
-   *Created a project to solve a real estate company’s problem by predicting house prices using machine learning. Successfully predicted house prices with high         accuracy, significantly enhancing the company’s decision-making process and sales performance by 60%.*  
 
-- 🤖 **[Movie Recommender Sytem](https://github.com/Akankshadarshan/Movie-recommender-system)**  
-   *Created a recommendation system to suggest movies to users based on their viewing history and preferences.*  
+## 🚀 Featured Projects
 
-- 📈 **[EdTech Course Insights Dashboard](https://github.com/Akankshadarshan/edtech-powerbi-dashboard)**  
-   *Developed a comprehensive data analysis and visualization dashboard for an EdTech startup to identify growth opportunities in recorded lecture offerings,           focusing on viewer engagement, category performance, and market alignment.*
-
-- 📚 **[Book Price Scraper](https://github.com/Akankshadarshan/Book-Price-Scraper)**  
-   *Scrapes online bookstore websites to fetch book prices and compares them efficiently.*
-
-- 📝 **[OCR Text Extractor](https://github.com/Akankshadarshan/OCR-Text-Extractor)**  
-   *Extracts text from images using OCR technology for easy digital processing.*
+| Project | Description |
+|---------|-------------|
+| <a href="https://github.com/Akankshadarshan/Telecom_Churn_Analysis"><img src="https://img.icons8.com/color/48/000000/signal-app.png
+" width="30"/> <br/> **Project 1**</a> |  End-to-end analysis of a 7K+ customer dataset to identify churn drivers
+and business risks. |
+| <a href="https://github.com/Akankshadarshan/price-prediction-model"><img src="https://img.icons8.com/color/48/000000/javascript.png" width="30"/> <br/> **Project 2**</a> | Dashboard built with React & Tailwind |
+| <a href="https://github.com/Akankshadarshan/Movie-recommender-system"><img src="https://img.icons8.com/color/48/000000/movie-projector.png" width="30"/> <br/> **Project 3**</a> | SQL + Data analysis project with insights |
+| <a href="https://github.com/Akankshadarshan/edtech-powerbi-dashboard"><img src="https://img.icons8.com/color/48/000000/online-learning.png" width="30"/> <br/> **Project 4**</a> | Analyzed a dataset of 10,000+ online courses to
+evaluate engagement, language accessibility, and learner preferences. |
+| <a href="https://github.com/Akankshadarshan/Book-Price-Scraper"><img src="https://img.icons8.com/color/48/000000/books.png" width="30"/> <br/> **Project 5**</a> | Scrapes online bookstore websites to fetch book prices and compares them efficiently.|
+| <a href="https://github.com/Akankshadarshan/OCR-Text-Extractor"><img src="https://img.icons8.com/color/48/000000/ocr.png" width="30"/> <br/> **Project 6**</a> |Extracts text from images using OCR technology for easy digital processing.|
   
 ---
 
